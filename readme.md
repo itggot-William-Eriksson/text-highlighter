@@ -24,6 +24,8 @@ gem install colorize
 För att skriva ut text med en viss färg använder man sen:
 
 ```ruby
+require "colorize" #längst upp i filen; säger till ruby ruby att använda colorize-gemen
+
 my_string = "grillkorv"
 print my_string.blue #skriver ut strängen med blå text
 print my_string.on_blue #skriver ut strängen på blå bakgrund
