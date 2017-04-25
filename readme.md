@@ -11,7 +11,7 @@ Du skall skriva fyra funktioner:
 * `main`som inte tar några argument, men som använder `ARGV` för att skicka data till de andra funktionerna.
 * ` read_file` som tar ett filnamn **som argument** och **returnerar**  en `String` med alla tecken i filen.
 * `indices`som tar`needle` och `haystack` **som argument** och **returnerar** en `Array` med "startindex" för alla förekomster av `needle` i `haystack`.
-* `print_highlighted_text`som tar `haystack`, storleken på needle och listan av "startindex" **som argument**, och **skriver ut** texten i terminalen, där varje förekomst av `needle` är "highlightad"
+* `print_highlighted_text`som tar `haystack`, storleken på `needle` och listan av "startindex" **som argument**, och **skriver ut** texten i terminalen, där varje förekomst av `needle` är "highlightad"
 
 ### Highlighting ###
 
