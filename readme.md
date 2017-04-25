@@ -50,8 +50,6 @@ Dokumentera er kod enligt [TomDoc-standarden](http://tomdoc.org/)
 
 Använd undantagshantering för att ta hand om eventuella undantag som kan uppstå.
 
-Avkommentera bonusbane-testet för att kolla att er implementering fungerar
-
 
 ### Länkar ###
 
