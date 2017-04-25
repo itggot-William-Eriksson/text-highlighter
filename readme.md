@@ -55,6 +55,6 @@ Använd undantagshantering för att ta hand om eventuella undantag som kan uppst
 
 * [Alvin Alexander.com - How to process every line in a text file with Ruby](http://alvinalexander.com/blog/post/ruby/how-process-line-text-file-ruby)
 * [Stack OverFlow - What are all the common ways to read a file in Ruby?](http://stackoverflow.com/questions/5545068/what-are-all-the-common-ways-to-read-a-file-in-ruby)
-* [CodeAcacdemy - Ruby: Command Line Arguments with ARGV](https://www.codecademy.com/articles/ruby-command-line-argv)
+* [CodeAcademy - Ruby: Command Line Arguments with ARGV](https://www.codecademy.com/articles/ruby-command-line-argv)
 * [TomDoc](http://tomdoc.org/)
 * [Honebadger.io - A Beginner's Guide to Exceptions in Ruby](http://blog.honeybadger.io/a-beginner-s-guide-to-exceptions-in-ruby/)
